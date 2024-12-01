@@ -1,0 +1,46 @@
+{
+    "product":[
+        {
+            "id": "1",
+            "name": "Dell Inspiron 3493 Intel 10th Gen i3-1005G1 14 inches(35cm) HD Thin and Light Laptop (4GB/1TB HDD/Windows 10 + MS Office/HD Graphics/Silver)...",
+            "price": 42538,
+            "quantity": 1,
+            "imageUrl": "https://m.media-amazon.com/images/I/6114XC1JQnL._AC_UL480_QL65_.jpg"
+          },
+          {
+            "id": "2",
+            "name": "MSI Gaming Bravo 15 AMD Ryzen 7-4800H, 40cm FHD IPS-Level 144Hz Panel Laptop(8GB/512GB/Windows 10 Home/AMD RX5500M/4GB...",
+            "price": 87589 ,
+            "quantity": 1,
+            "imageUrl": "https://m.media-amazon.com/images/I/71b46EnIzBL._AC_UL480_QL65_.jpg"
+          },
+          {
+            "id": "3",
+            "name": "Microsoft Surface Laptop 3 AMD Ryzen 5 15-inch (38.1 cms) Touchscreen Laptop (8GB/128GB SSD/Windows 10 Home/AMD Radeon Vega 9...",
+            "price": 71999,
+            "quantity": 1,
+            "imageUrl": "https://m.media-amazon.com/images/I/51VS6BFRl3L._AC_UL480_QL65_.jpg"
+          },
+          {
+            "id": "4",
+            "name": "Acer Nitro 5 Intel Core i5-9th Gen 15.6 with Beast Mode(40ms Low Latency) for Gaming, 40H Playtime, Blazing LEDs, Quad Mics ENx Sign...",
+            "price": 79999,
+            "quantity": 1,
+            "imageUrl": "https://m.media-amazon.com/images/I/81IXuyeJhYL._AC_UL480_QL65_.jpg"
+          },
+          {
+            "id": "5",
+            "name": "Dell Inspiron 5410 2021 Intel Core i3-1125G4 14 inches 2in1 Touch Screen Laptop, 8Gb RAM, 512Gb SSD, FHD Display...",
+            "price": 61999,
+            "quantity": 1,
+            "imageUrl": "https://m.media-amazon.com/images/I/61E8IwFfGrS._AC_UL480_FMwebp_QL65_.jpg"
+          },
+          {
+            "id": "5",
+            "name": "ASUS ZenBook 13 OLED (2021), Intel Core i5-1135G7 11th Gen, 13.3-inch (33.78 cms) FHD OLED Touch 2-in-1...",
+            "price": 79990,
+            "quantity": 1,
+            "imageUrl": "https://m.media-amazon.com/images/I/71XFkFyRL6L._AC_UL480_FMwebp_QL65_.jpg"
+          }
+    ]
+}
